@@ -1,4 +1,3 @@
-# Vaper
 ### <p align="center">⭐ star for more script ⭐</p>
 
 -----
